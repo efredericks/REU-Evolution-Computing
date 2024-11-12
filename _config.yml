@@ -5,4 +5,4 @@ theme: just-the-docs
 url: https://efredericks.github.io/REU-Evolution-Computing/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  repo: https://github.com/efredericks/REU-Evolution-Computing 
