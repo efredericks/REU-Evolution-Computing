@@ -5,12 +5,12 @@ layout: home
 
 ## Project Overview
 
-The goal of the current incarnation of this project will be to develop a successful REU proposal for the NSF bringing together evolutionary biology and evolutionary computation.
+The goal of the current incarnation of this project will be to develop a successful REU proposal for the NSF, bringing together evolutionary biology and evolutionary computation.
 
 ## Efforts required during Winter/Summer 2025 semesters:
 
-* Development of sample modules for undergraduate students to participate in for experiential learning in evolutionary biology and evolutionary computation.
-* Development of potential research project frameworks for participants to use as a 'jumping-off' point for research publication activities.
+* Development of sample modules for undergraduate students for experiential learning in evolutionary biology and evolutionary computation
+* Development of potential research project frameworks for participants to use as a 'jumping-off' point for research publication activities
 * Support grant writing activities
 * Participate in regular meetings with cross-disciplinary faculty and mentors
 
