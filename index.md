@@ -16,7 +16,7 @@ The goal of the current incarnation of this project will be to develop a success
 
 ## Project Information
 
-* [Innovation Day proposal](assets/slides/NSF-REU-EvoBioComp-F2024.pdf){:target="\_blank"}
+* [Innovation Day presentation](assets/slides/NSF-REU-EvoBioComp-F2024.pdf){:target="\_blank"}
 * [NSF REU solicitation](https://new.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates){:target="\_blank"}
 
 ---
