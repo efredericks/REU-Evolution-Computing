@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: EvoBioComp
+description: Project Page for (proposed) NSF REU program in Intersecting Evolutionary Biology/Computation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://efredericks.github.io/REU-Evolution-Computing/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
